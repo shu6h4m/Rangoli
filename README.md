@@ -1,2 +1,2 @@
 # Rangoli
-Rangoli like patteren in Python 
+Rangoli like patteren in  Python 
