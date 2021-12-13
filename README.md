@@ -2,4 +2,3 @@
 Rangoli like patteren in  Python !
   
  
- 
